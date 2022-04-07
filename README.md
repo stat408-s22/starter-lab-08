@@ -1,6 +1,6 @@
 # Lab 08 - Smoking during pregnancy
 
-_Due Monday April 18 by 5:00pm_
+_Due Wednesday April 13 by 5:00pm_
 
 Work through Lab 08 at: [https://stat408-s22.github.io/labs/lab-08/lab-08-inference-smoking.html](https://stat408-s22.github.io/labs/lab-08/lab-08-inference-smoking.html) (also linked off of our [course calendar webpage](https://stat408-s22.github.io/calendar.html)). 
 
